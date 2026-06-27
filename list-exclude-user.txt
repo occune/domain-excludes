@@ -1974,3 +1974,5 @@ spotify.map.fastlylb.net
 fadeventtracker.spotify.com
 adstudio-assets.scdn.co
 bloodhound.spotify.com
+
+copernicus.eu
