@@ -1943,6 +1943,8 @@ collector.github.com
 steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 tumblr.com
 hidden-source.com
+trueconf.com
+trueconf.ru
 
 byspotify.com
 lifeatspotify.com
