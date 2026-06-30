@@ -2001,3 +2001,13 @@ tehnodom.com
 vscale.blog
 vscale.io
 vscale.ru
+
+dawngate.com
+eastore.com
+lordofultima.com
+origin.com
+origin.tv
+cloudsync-prod.s3.amazonaws.com
+origin-a.akamaihd.net
+rtm.tnt-ea.com
+ssl-lvlt.cdn.ea.com
